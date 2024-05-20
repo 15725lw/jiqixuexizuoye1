@@ -1,0 +1,2 @@
+# jiqixuexizuoye1
+这是一个机器学习课程作业1的Github代码仓库，储存着代码和结果
